@@ -14,3 +14,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+
+<a href="https://app.daily.dev/https_berd"><img src="https://api.daily.dev/devcards/v2/vH1u99vDi10zAOdAZLski.png?r=nvm&type=default" width="356" alt="Brenda Romero's Dev Card"/></a>
