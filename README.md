@@ -1,7 +1,7 @@
 ### Hello World! 🤓
 
 - 🏢 I'm currently working at Artificial Nerds
-- 🤖 Fun fact: I'm a QA leader and I want to be a full-stack developer
+- 🤖 Fun fact: I'm a Senior QA and I want to be a full-stack developer
 - 👾 I’m currently learning CSS, HTML, BOOTSTRAP, JS & CYPRESS
 
 🎯 Some technologies I use:
