@@ -1,8 +1,8 @@
 ### Hello World! 🤓
 
 - 🏢 I'm currently working with chatbots and platforms
-- 🤖 Fun fact: I'm a Senior QA and I want to be a full-stack developer
-- 👾 I’m currently learning CSS, HTML, BOOTSTRAP, JS & CYPRESS
+- 🤖 I'm a QA lead and in my spare time I'm a Developer.
+- 👾 I’m currently learning Javascript, Cypress, API Testing & Performance Testing.
 
 🎯 Some technologies I use:
 <br>
