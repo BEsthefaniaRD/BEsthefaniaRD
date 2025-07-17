@@ -1,8 +1,8 @@
 ### Hello World! 🤓
 
-- 🏢 I'm currently working with chatbots and platforms
+- 🏢 I'm currently working with platforms and chatbots
 - 🤖 I'm a QA Lead and in my spare time I'm a Developer.
-- 👾 I’m currently learning Javascript, Cypress, API Testing & Performance Testing.
+- 👾 I’m currently learning Performance Testing.
 
 🎯 Some technologies I use:
 <br>
