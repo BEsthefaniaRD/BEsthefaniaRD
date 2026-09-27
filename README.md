@@ -1,8 +1,7 @@
-### Hello World! 🤓
+### Hello World! 👋
 
-- 🏢 I'm currently working with platforms and chatbots
-- 🤖 I'm a QA Lead and in my spare time I'm a Developer.
-- 👾 I’m currently learning Performance Testing.
+🤓 I'm EsthefanIA
+🤖 QA & Software Developer
 
 🎯 Some technologies I use:
 <br>
